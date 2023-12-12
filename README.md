@@ -1,6 +1,6 @@
 # Brasileiro
 
-  Nossa linguagem representa uma adaptação de uma linguagem de programação convencional para uma forma mais acessível e intuitiva, alinhada ao cotidiano. Por exemplo, a atribuição de variáveis, que comumente é expressa como "x = 10" em outras linguagens, é formulada em nossa abordagem como "x recebe 10". Essa escolha visa simplificar o aprendizado da lógica de programação, tornando-a mais acessível a um público diversificado e contribuindo para democratizar o ensino nessa área.
+      Nossa linguagem representa uma adaptação de uma linguagem de programação convencional para uma forma mais acessível e intuitiva, alinhada ao cotidiano. Por exemplo, a atribuição de variáveis, que comumente é expressa como "x = 10" em outras linguagens, é formulada em nossa abordagem como "x recebe 10". Essa escolha visa simplificar o aprendizado da lógica de programação, tornando-a mais acessível a um público diversificado e contribuindo para democratizar o ensino nessa área.
 
 ## Diretórios
 
