@@ -7,4 +7,4 @@
 - ### **Brasileiro_GUI**:
   - Arquivo com a implementação da linguagem e uma Interface Gráfica Interativa, na qual o usuário pode escrever um código em nossa linguagem e ele será executado.
  
-Para utilizar a Interface basta digitar ou copiar um código válido da nossa linguagem e clicar no botão de executar, caso haja saídas (print), a saída será exibida abaixo no botão.
+Para utilizar a Interface basta digitar ou copiar um código válido da nossa linguagem (exemplos de códigos válidos estão disponíveis na penultima célula do notebook) e clicar no botão de executar, caso haja saídas (print), a saída será exibida abaixo no botão.
